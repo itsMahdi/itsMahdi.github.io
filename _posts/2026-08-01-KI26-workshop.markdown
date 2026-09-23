@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "KI26 workshop, Explaining Vision and Language Models — A Concept-Based Approach"
+date:   2026-08-01 18:53:50 +0200
+categories: Workshop
+---
+### Workshop at KI 2026
+
+I’m excited to announce our workshop **“Explainable AI for Causal Reasoning”** at **KI 2026**.
+
+The workshop explores how explainable AI and causal reasoning can be brought together to make AI systems more transparent, interpretable, and trustworthy.
+
+More details and the full program are available on the [workshop website](https://gesina.github.io/ki2026-c-xai-tutorial/).
+
